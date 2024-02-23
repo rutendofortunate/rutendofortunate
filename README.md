@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @rutendofortunate
+- 👀 I’m interested in equity research and investment analysis
+- 🌱 I’m currently learning Python to better my interest
+- 💞️ I’m looking to collaborate on projects in the finance space
+- 📫 Email me on rutendonate@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: ...
+
+<!---
+rutendofortunate/rutendofortunate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

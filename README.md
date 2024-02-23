@@ -2,7 +2,7 @@
 - 👀 I’m interested in equity research and investment analysis
 - 🌱 I’m currently learning Python to better my interests
 - 💞️ I’m looking to collaborate on projects in the finance space
-- 📫 Email me on rutendonate@gmail.com
+- 📫 You can reach me at rutendonate@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 

@@ -24,7 +24,7 @@
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="mailto:rutendonate@gmail.com"><img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.youtube.com/user/rutendofortunate" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@rutendofortunate" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.linkedin.com/in/rutendofortunate" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 

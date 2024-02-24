@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size:24px;">Welcome to Rutendo's GitHub Profile!</h1>
-<p align="center">I'm currently learning python to better my interests in equity research and investment analysis!</p>
+<p align="center">I'm currently learning python to better my interests in equity research and investment analysis.</p>
 <hr>
 <h1 align="center">
 

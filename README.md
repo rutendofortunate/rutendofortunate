@@ -19,7 +19,13 @@
 ![Repository's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=rutendofortunate&repo=Financial-Modelling
 )
 
- 💞️ I’m looking to collaborate on projects in the finance space.
+<h1 align="center" style="font-size:24px;">Portfolio</h1>
+<p align="left">Financial Calculator(under construction).</p>
+<p align="left">Website(under construction).</p>
+<p align="left">Finance Game(under construction).</p>
+<hr>
+<h1 align="center">
+  
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">

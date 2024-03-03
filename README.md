@@ -3,8 +3,6 @@
 <hr>
 <h1 align="center">
 
-
-
   <span style="font-size: 16px;">Projects</span>
   <small style="font-size: 12px;">(my learning journey)</small>
 </h1>
@@ -30,6 +28,12 @@
 <p align="left">Coming</p>
 <hr>
 <h1 align="center">
+
+<h1 align="center" style="font-size:24px;">Skills 🛠️</h1>
+<p align="left">Python</p>
+<hr>
+<h1 align="center">
+
 
 <h1 align="center" style="font-size:24px;">Articles</h1>
 <p align="left">Coming</p>

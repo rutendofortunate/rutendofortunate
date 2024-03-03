@@ -24,7 +24,7 @@
 <hr>
 <h1 align="center">
 
-<h1 align="center" style="font-size:24px;">Certificates</h1>
+<h1 align="center" style="font-size:24px;">Certifications 📜</h1>
 <p align="left">Coming</p>
 <hr>
 <h1 align="center">

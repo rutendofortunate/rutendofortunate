@@ -30,7 +30,7 @@
 <h1 align="center">
 
 <h1 align="center" style="font-size:24px;">Skills </h1>
-<p align="left">Python</p>
+<p align="left">Python(learning)</p>
 <hr>
 <h1 align="center">
 

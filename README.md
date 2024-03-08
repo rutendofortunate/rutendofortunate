@@ -48,6 +48,10 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 
 - **SQL:** [Cloudera CCA Data Analyst](https://www.cloudera.com/services-and-support/training/cdhhdp-certification/cca-data-analyst.html)
 
+  ## Machine Learning
+
+- **AWS Certified Machine Learning - Specialty:** [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+
 ---
 
 Please note that these certifications are part of an ongoing journey in data analysis, visualization, and programming. Each link leads to more information about the certification, including how to prepare, exam details, and registration.

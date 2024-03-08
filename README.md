@@ -17,7 +17,109 @@
 ![Repository's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=rutendofortunate&repo=Financial-Modelling
 )
 
-<h1 align="center" style="font-size:24px;">Portfolio Projects</h1>
+
+<h1 align="center" style="font-size:24px;">Finance-Focused Portfolio Projects</h1>
+
+Here are the key projects I am working on, all centered around the finance sector. The goal is for them to demonstrate my expertise in applying programming, data analysis, and machine learning to solve complex problems in the finance sector. Each project showcases different skills and technologies, including Python, R, SQL, Excel, Power BI, Tableau, and machine learning.
+
+## Projects Overview
+
+### Financial Health Dashboard (Python, Django)
+
+**Description:** A web-based dashboard that allows users to assess their financial health through various metrics. It features interactive calculators for budgeting, retirement planning, and investment analysis.
+
+**Technologies Used:** Python, Django, JavaScript, HTML, CSS
+
+**Key Features:**
+- User authentication and data security
+- Real-time financial health metrics calculation
+- Interactive data visualizations
+
+---
+
+### Investment Portfolio Analysis Tool (R, Shiny)
+
+**Description:** An R-powered tool for investment portfolio analysis, providing insights into risk, return, and diversification. It also offers optimization strategies and simulates portfolio performance under different scenarios.
+
+**Technologies Used:** R, Shiny, HTML, CSS
+
+**Key Features:**
+- Portfolio risk and return analysis
+- Monte Carlo simulations for forecasting
+- Benchmark comparison
+
+---
+
+### Corporate Financial Performance Dashboard (SQL, Excel, Power BI)
+
+**Description:** A dashboard that visualizes key financial performance indicators (KPIs) for corporate clients, aggregating data from various sources.
+
+**Technologies Used:** SQL, Excel, Power BI
+
+**Key Features:**
+- Integration with SQL databases
+- Data cleaning and analysis in Excel
+- Interactive visualizations in Power BI
+
+---
+
+### Market Risk Analysis Tool (Python/R, Web)
+
+**Description:** A web-based tool that uses statistical models to assess market risk, calculating Value at Risk (VaR), and performing Monte Carlo simulations.
+
+**Technologies Used:** Python or R, Flask or Django for web development
+
+**Key Features:**
+- VaR and CVaR calculation
+- User input for custom scenario analysis
+- Graphical representation of risk metrics
+
+---
+
+### Economic Indicators Dashboard (Tableau)
+
+**Description:** An interactive dashboard in Tableau tracking key economic indicators to help users understand the economic environment.
+
+**Technologies Used:** Tableau
+
+**Key Features:**
+- Real-time data integration
+- Interactive and engaging visualizations
+- Comprehensive economic analysis
+
+---
+
+### Credit Scoring Model (Machine Learning, Python)
+
+**Description:** A machine learning model that predicts the likelihood of loan default based on financial information, accessible via a web interface.
+
+**Technologies Used:** Python, scikit-learn or TensorFlow, Flask or Django
+
+**Key Features:**
+- Predictive modeling for credit scoring
+- User-friendly web interface for score retrieval
+- High accuracy and precision in predictions
+
+---
+
+### Financial Literacy Game (Python/JavaScript)
+
+**Description:** An educational game designed to teach financial literacy through interactive scenarios and challenges.
+
+**Technologies Used:** Python (Pygame) or JavaScript (HTML5 Canvas)
+
+**Key Features:**
+- Engaging gameplay with financial education
+- Scenarios covering budgeting, investing, and debt management
+- Cross-platform compatibility
+
+## Conclusion
+
+This portfolio represents my journey in blending technology with finance, aiming to create tools and applications that not only solve complex problems but also educate and empower users. I am passionate about financial technology and continuously seek to improve and expand my skills in this exciting field.
+
+Thank you for exploring my finance-focused portfolio projects. Please feel free to contact me for more information, collaboration, or discussions about these projects.
+
+
 
 ## Projects Overview
 

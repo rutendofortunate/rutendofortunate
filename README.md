@@ -22,13 +22,13 @@
 
 Here are the key projects I am working on, all centered around the finance sector. The goal is for them to demonstrate my expertise in applying programming, data analysis, and machine learning to solve complex problems in the finance sector. Each project showcases different skills and technologies, including Python, R, SQL, Excel, Power BI, Tableau, and machine learning.
 
-<h1 align="center" style="font-size:16px;">## Projects Overview</h1>
+<h1 align="center" style="font-size:16px;">Projects Overview</h1>
 
 ### Financial Health Dashboard (Python, Django)
 
 **Description:** A web-based dashboard that allows users to assess their financial health through various metrics. It features interactive calculators for budgeting, retirement planning, and investment analysis.
 
-**Technologies Used:** Python, Django, JavaScript, HTML, CSS
+**Technologies To Be Used:** Python, Django, JavaScript, HTML, CSS
 
 **Key Features:**
 - User authentication and data security
@@ -41,7 +41,7 @@ Here are the key projects I am working on, all centered around the finance secto
 
 **Description:** An R-powered tool for investment portfolio analysis, providing insights into risk, return, and diversification. It also offers optimization strategies and simulates portfolio performance under different scenarios.
 
-**Technologies Used:** R, Shiny, HTML, CSS
+**Technologies To Be Used:** R, Shiny, HTML, CSS
 
 **Key Features:**
 - Portfolio risk and return analysis
@@ -54,7 +54,7 @@ Here are the key projects I am working on, all centered around the finance secto
 
 **Description:** A dashboard that visualizes key financial performance indicators (KPIs) for corporate clients, aggregating data from various sources.
 
-**Technologies Used:** SQL, Excel, Power BI
+**Technologies To Be Used:** SQL, Excel, Power BI
 
 **Key Features:**
 - Integration with SQL databases
@@ -67,7 +67,7 @@ Here are the key projects I am working on, all centered around the finance secto
 
 **Description:** A web-based tool that uses statistical models to assess market risk, calculating Value at Risk (VaR), and performing Monte Carlo simulations.
 
-**Technologies Used:** Python or R, Flask or Django for web development
+**Technologies To Be Used:** Python or R, Flask or Django for web development
 
 **Key Features:**
 - VaR and CVaR calculation
@@ -80,7 +80,7 @@ Here are the key projects I am working on, all centered around the finance secto
 
 **Description:** An interactive dashboard in Tableau tracking key economic indicators to help users understand the economic environment.
 
-**Technologies Used:** Tableau
+**Technologies To Be Used:** Tableau
 
 **Key Features:**
 - Real-time data integration
@@ -93,7 +93,7 @@ Here are the key projects I am working on, all centered around the finance secto
 
 **Description:** A machine learning model that predicts the likelihood of loan default based on financial information, accessible via a web interface.
 
-**Technologies Used:** Python, scikit-learn or TensorFlow, Flask or Django
+**Technologies To Be Used:** Python, scikit-learn or TensorFlow, Flask or Django
 
 **Key Features:**
 - Predictive modeling for credit scoring
@@ -106,7 +106,7 @@ Here are the key projects I am working on, all centered around the finance secto
 
 **Description:** An educational game designed to teach financial literacy through interactive scenarios and challenges.
 
-**Technologies Used:** Python (Pygame) or JavaScript (HTML5 Canvas)
+**Technologies To Be Used:** Python (Pygame) or JavaScript (HTML5 Canvas)
 
 **Key Features:**
 - Engaging gameplay with financial education

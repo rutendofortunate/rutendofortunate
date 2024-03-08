@@ -17,12 +17,48 @@
 ![Repository's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=rutendofortunate&repo=Financial-Modelling
 )
 
-<h1 align="center" style="font-size:24px;">Portfolio</h1>
-<p align="left">Calculator(under construction)</p>
-<p align="left">Website(under construction)</p>
-<p align="left">Game(under construction)</p>
-<hr>
-<h1 align="center">
+<h1 align="center" style="font-size:24px;">Portfolio Projects</h1>
+
+## Projects Overview
+
+Below are some of the projects I am currently working on. Each project is an opportunity to demonstrate my skills and proficiency in various technologies and concepts.
+
+### Calculator (Under Construction)
+
+- **Key Skills and Technologies:**
+  - Programming Logic and Algorithms
+  - UI/UX Design Principles
+  - Frontend Development with JavaScript/React (or any other technology you're using)
+  - Version Control with Git and GitHub
+
+This project aims to build a fully functional calculator that not only performs basic arithmetic operations but also supports complex calculations. It serves as a showcase of my problem-solving abilities and understanding of user interface design.
+
+### Website (Under Construction)
+
+- **Key Skills and Technologies:**
+  - Web Design with HTML5 and CSS3
+  - Responsive Design Frameworks (e.g., Bootstrap, Tailwind CSS)
+  - Backend Development (e.g., Node.js, Python Flask/Django)
+  - Database Integration (e.g., MySQL, MongoDB)
+  - SEO Best Practices
+
+The goal of this project is to develop a professional website that demonstrates my ability to create an engaging user experience, optimized for both performance and search engines. It highlights my full-stack web development skills from front to back.
+
+### Game (Under Construction)
+
+- **Key Skills and Technologies:**
+  - Game Design Principles
+  - Programming in C# (Unity) or JavaScript (HTML5 Canvas)
+  - 2D or 3D Graphics Rendering
+  - Physics Engines and Interaction Mechanics
+  - Cross-platform Development
+
+This project focuses on creating an immersive game experience, showcasing my creativity in game design and proficiency in programming. It emphasizes my understanding of graphics, physics, and user interaction within a digital environment.
+
+## Conclusion
+
+These projects, though still under construction, are pivotal in honing my skills across different areas of software development and design. They reflect my dedication to learning and my passion for creating solutions that leverage technology in innovative ways.
+
 
 # <h1 align="center"> Certifications (Road Map) </h1>
 

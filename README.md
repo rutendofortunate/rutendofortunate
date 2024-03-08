@@ -18,9 +18,9 @@
 )
 
 <h1 align="center" style="font-size:24px;">Portfolio</h1>
-<p align="left">Financial Calculator(under construction)</p>
+<p align="left">Calculator(under construction)</p>
 <p align="left">Website(under construction)</p>
-<p align="left">Finance Game(under construction)</p>
+<p align="left">Game(under construction)</p>
 <hr>
 <h1 align="center">
 

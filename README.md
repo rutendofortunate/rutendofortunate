@@ -139,6 +139,9 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 
 - **Microsoft Office Specialist: Excel Expert 2019:** [MOS Excel Expert 2019](https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-expert-2019/?practice-assessment-type=certification)
 
+## Data Structures and Algorithms
+
+- **Data Structures and Algorithms:** [Free Data Structures and Algorithms Course (Simplilearn SkillUp)](https://www.simplilearn.com/free-data-structures-algorithms-course-skillup)
 
 ## Statistics and Data Science
 

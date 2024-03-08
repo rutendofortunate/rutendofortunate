@@ -141,7 +141,7 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 
 ## Data Structures and Algorithms
 
-- **Data Structures and Algorithms:** [Free Data Structures and Algorithms Course (Simplilearn SkillUp)](https://www.simplilearn.com/free-data-structures-algorithms-course-skillup)
+- **Data Structures and Algorithms Specialization:** [Coursera - Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 
 ## Statistics and Data Science
 

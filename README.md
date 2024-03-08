@@ -21,43 +21,44 @@
 
 ## Projects Overview
 
-Below are some of the projects I am currently working on. Each project is an opportunity to demonstrate my skills and proficiency in various technologies and concepts.
+Here are the key projects I am working on, all centered around the finance sector. These projects demonstrate my ability to apply technical skills in Python and Django to solve complex financial problems and develop robust, scalable financial applications.
 
-### Calculator (Under Construction)
-
-- **Key Skills and Technologies:**
-  - Programming Logic and Algorithms
-  - UI/UX Design Principles
-  - Frontend Development with JavaScript/React (or any other technology you're using)
-  - Version Control with Git and GitHub
-
-This project aims to build a fully functional calculator that not only performs basic arithmetic operations but also supports complex calculations. It serves as a showcase of my problem-solving abilities and understanding of user interface design.
-
-### Website (Under Construction)
+### Calculator (Finance-focused, Under Construction)
 
 - **Key Skills and Technologies:**
-  - Web Design with HTML5 and CSS3
-  - Responsive Design Frameworks (e.g., Bootstrap, Tailwind CSS)
-  - Backend Development (e.g., Node.js, Python Flask/Django)
-  - Database Integration (e.g., MySQL, MongoDB)
-  - SEO Best Practices
+  - Python for financial calculations and logic
+  - Django for web application framework
+  - Financial Modeling and Analysis
+  - Frontend Development using HTML, CSS, and JavaScript for interactive web interfaces
+  - Git and GitHub for version control
 
-The goal of this project is to develop a professional website that demonstrates my ability to create an engaging user experience, optimized for both performance and search engines. It highlights my full-stack web development skills from front to back.
+This project aims to create a sophisticated financial calculator capable of handling various financial operations, such as compound interest calculations, investment return projections, and risk assessments. It showcases my technical skills alongside my understanding of financial principles.
 
-### Game (Under Construction)
+### Website (Finance-focused, Under Construction)
 
 - **Key Skills and Technologies:**
-  - Game Design Principles
-  - Programming in C# (Unity) or JavaScript (HTML5 Canvas)
-  - 2D or 3D Graphics Rendering
-  - Physics Engines and Interaction Mechanics
-  - Cross-platform Development
+  - Full-stack web development with Django and Django REST Framework for backend
+  - HTML5, CSS3, and Bootstrap for responsive design
+  - Python for backend logic, including financial data processing and analytics
+  - Integration with financial APIs for real-time data
+  - SEO optimization techniques for financial content
 
-This project focuses on creating an immersive game experience, showcasing my creativity in game design and proficiency in programming. It emphasizes my understanding of graphics, physics, and user interaction within a digital environment.
+The objective of this website is to provide financial insights, tools, and resources to help users make informed financial decisions. It serves as a platform to demonstrate my ability to create a comprehensive web solution that addresses the needs of the finance community.
+
+### Game (Finance-focused, Under Construction)
+
+- **Key Skills and Technologies:**
+  - Game development with Python and Pygame or a web-based framework for interactive experiences
+  - Financial simulations to teach economic principles or financial planning
+  - Creative storytelling to engage users in financial learning
+  - Cross-platform optimization for accessibility and user engagement
+  - Use of financial datasets to create realistic scenarios
+
+This game aims to educate users on financial concepts through interactive gameplay, simulating real-world financial scenarios and decisions. It combines my passion for finance with my skills in programming and game design, offering an innovative approach to financial education.
 
 ## Conclusion
 
-These projects, though still under construction, are pivotal in honing my skills across different areas of software development and design. They reflect my dedication to learning and my passion for creating solutions that leverage technology in innovative ways.
+These projects, all within the finance sector, are crucial for developing and showcasing my proficiency in applying technology to finance. Through the use of Python, Django, and other supportive tools, I aim to create solutions that not only solve complex financial problems but also advance the field of financial technology.
 
 
 # <h1 align="center"> Certifications (Road Map) </h1>

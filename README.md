@@ -40,7 +40,7 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 
 - **Tableau:** [Tableau Certification](https://www.tableau.com/learn/certification)
 
-- **Microsoft Office Specialist: Excel 2019:** [MOS Excel 2019](https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-2019/?practice-assessment-type=certification)
+- **Microsoft Office Specialist: Excel Expert 2019:** [MOS Excel Expert 2019](https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-expert-2019/?practice-assessment-type=certification)
 
 
 ## Statistics and Data Science

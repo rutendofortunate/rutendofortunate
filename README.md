@@ -24,10 +24,34 @@
 <hr>
 <h1 align="center">
 
-<h1 align="center" style="font-size:24px;">Certifications</h1>
-<p align="left">Coming</p>
-<hr>
-<h1 align="center">
+# Certifications (Road Map)
+
+A roadmap of certifications I aim to achieve or have achieved, organized by technology and subject area.
+
+## Programming Languages
+
+- **Python:** [Python Institute - PCEP](https://pythoninstitute.org/pcep)
+
+- **R:** [IBM Data Analyst Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel)
+
+## Data Analysis and Visualization
+
+- **SQL, Excel & Power BI:** [Microsoft Power BI Data Analyst Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)
+
+- **Tableau:** [Tableau Certification](https://www.tableau.com/learn/certification)
+
+## Statistics and Data Science
+
+- **Statistics:** [SAS Statistical Business Analyst](https://www.sas.com/en_za/certification/credentials/advanced-analytics/statistical-business-analyst.html)
+
+## Databases
+
+- **SQL:** [Cloudera CCA Data Analyst](https://www.cloudera.com/services-and-support/training/cdhhdp-certification/cca-data-analyst.html)
+
+---
+
+Please note that these certifications are part of an ongoing journey in data analysis, visualization, and programming. Each link leads to more information about the certification, including how to prepare, exam details, and registration.
+
 
 <h1 align="center" style="font-size:24px;">Skills </h1>
 <p align="left">Python(learning)</p>

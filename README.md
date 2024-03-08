@@ -164,7 +164,7 @@ Please note that these certifications are part of an ongoing journey in data ana
 
 
 <h1 align="center" style="font-size:24px;">Articles</h1>
-<p align="left">Coming</p>
+<p align="left">This part is to communicate the findings from the analysis l would have done in my learning journey</p>
 <hr>
 <h1 align="center">
   

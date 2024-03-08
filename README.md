@@ -26,7 +26,7 @@
 
 # Certifications (Road Map)
 
-A roadmap of certifications I aim to achieve or have achieved, organized by technology and subject area.
+A roadmap of certifications I aim to achieve , organized by technology and subject area.
 
 ## Programming Languages
 

@@ -22,7 +22,7 @@
 
 Here are the key projects I am working on, all centered around the finance sector. The goal is for them to demonstrate my expertise in applying programming, data analysis, and machine learning to solve complex problems in the finance sector. Each project showcases different skills and technologies, including Python, R, SQL, Excel, Power BI, Tableau, and machine learning.
 
-## Projects Overview
+<h1 align="center" style="font-size:16px;">## Projects Overview</h1>
 
 ### Financial Health Dashboard (Python, Django)
 
@@ -119,48 +119,6 @@ This portfolio represents my journey in blending technology with finance, aiming
 
 Thank you for exploring my finance-focused portfolio projects. Please feel free to contact me for more information, collaboration, or discussions about these projects.
 
-
-
-## Projects Overview
-
-Here are the key projects I am working on, all centered around the finance sector. These projects demonstrate my ability to apply technical skills in Python and Django to solve complex financial problems and develop robust, scalable financial applications.
-
-### Calculator (Finance-focused, Under Construction)
-
-- **Key Skills and Technologies:**
-  - Python for financial calculations and logic
-  - Django for web application framework
-  - Financial Modeling and Analysis
-  - Frontend Development using HTML, CSS, and JavaScript for interactive web interfaces
-  - Git and GitHub for version control
-
-This project aims to create a sophisticated financial calculator capable of handling various financial operations, such as compound interest calculations, investment return projections, and risk assessments. It showcases my technical skills alongside my understanding of financial principles.
-
-### Website (Finance-focused, Under Construction)
-
-- **Key Skills and Technologies:**
-  - Full-stack web development with Django and Django REST Framework for backend
-  - HTML5, CSS3, and Bootstrap for responsive design
-  - Python for backend logic, including financial data processing and analytics
-  - Integration with financial APIs for real-time data
-  - SEO optimization techniques for financial content
-
-The objective of this website is to provide financial insights, tools, and resources to help users make informed financial decisions. It serves as a platform to demonstrate my ability to create a comprehensive web solution that addresses the needs of the finance community.
-
-### Game (Finance-focused, Under Construction)
-
-- **Key Skills and Technologies:**
-  - Game development with Python and Pygame or a web-based framework for interactive experiences
-  - Financial simulations to teach economic principles or financial planning
-  - Creative storytelling to engage users in financial learning
-  - Cross-platform optimization for accessibility and user engagement
-  - Use of financial datasets to create realistic scenarios
-
-This game aims to educate users on financial concepts through interactive gameplay, simulating real-world financial scenarios and decisions. It combines my passion for finance with my skills in programming and game design, offering an innovative approach to financial education.
-
-## Conclusion
-
-These projects, all within the finance sector, are crucial for developing and showcasing my proficiency in applying technology to finance. Through the use of Python, Django, and other supportive tools, I aim to create solutions that not only solve complex financial problems but also advance the field of financial technology.
 
 
 # <h1 align="center"> Certifications (Road Map) </h1>

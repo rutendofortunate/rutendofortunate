@@ -24,7 +24,7 @@
 <hr>
 <h1 align="center">
 
-# Certifications (Road Map)
+# <h1 align="center"> Certifications (Road Map) </h1>
 
 A roadmap of certifications I aim to achieve , organized by technology and subject area.
 

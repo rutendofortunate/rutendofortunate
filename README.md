@@ -125,12 +125,6 @@ Thank you for exploring my finance-focused portfolio projects. Please feel free 
 
 A roadmap of certifications I aim to achieve , organized by technology and subject area.
 
-## Programming Languages
-
-- **Python:** [Python Institute - PCEP](https://pythoninstitute.org/pcep)
-
-- **R:** [IBM Data Analyst Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel)
-
 ## Data Analysis and Visualization
 
 - **SQL, Excel & Power BI:** [Microsoft Power BI Data Analyst Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)
@@ -138,6 +132,16 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 - **Tableau:** [Tableau Certification](https://www.tableau.com/learn/certification)
 
 - **Microsoft Office Specialist: Excel Expert 2019:** [MOS Excel Expert 2019](https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-expert-2019/?practice-assessment-type=certification)
+
+## Databases
+
+- **SQL:** [Cloudera CCA Data Analyst](https://www.cloudera.com/services-and-support/training/cdhhdp-certification/cca-data-analyst.html)
+
+## Programming Languages
+
+- **Python:** [Python Institute - PCEP](https://pythoninstitute.org/pcep)
+
+- **R:** [IBM Data Analyst Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel)
 
 ## Data Structures and Algorithms
 
@@ -147,18 +151,11 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 
 - **Statistics:** [SAS Statistical Business Analyst](https://www.sas.com/en_za/certification/credentials/advanced-analytics/statistical-business-analyst.html)
 
-## Databases
-
-- **SQL:** [Cloudera CCA Data Analyst](https://www.cloudera.com/services-and-support/training/cdhhdp-certification/cca-data-analyst.html)
-
 ## Machine Learning
 
 - **AWS Certified Machine Learning - Specialty:** [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
 
 ---
-
-Please note that these certifications are part of an ongoing journey in data analysis, visualization, and programming. Each link leads to more information about the certification, including how to prepare, exam details, and registration.
-
 
 <h1 align="center" style="font-size:24px;">Skills </h1>
 <p align="left">Python(learning)</p>

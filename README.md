@@ -113,14 +113,6 @@ Here are the key projects I am working on, all centered around the finance secto
 - Scenarios covering budgeting, investing, and debt management
 - Cross-platform compatibility
 
-## Conclusion
-
-This portfolio represents my journey in blending technology with finance, aiming to create tools and applications that not only solve complex problems but also educate and empower users. I am passionate about financial technology and continuously seek to improve and expand my skills in this exciting field.
-
-Thank you for exploring my finance-focused portfolio projects. Please feel free to contact me for more information, collaboration, or discussions about these projects.
-
-
-
 # <h1 align="center"> Certifications (Road Map) </h1>
 
 A roadmap of certifications I aim to achieve , organized by technology and subject area.

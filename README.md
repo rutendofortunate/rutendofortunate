@@ -128,6 +128,7 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 ## Databases
 
 - **SQL:** [Cloudera CCA Data Analyst](https://www.cloudera.com/services-and-support/training/cdhhdp-certification/cca-data-analyst.html)
+- **SQL:** [Microsoft Certified: Azure Database Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-database-administrator-associate/)
 
 ## Programming Languages
 

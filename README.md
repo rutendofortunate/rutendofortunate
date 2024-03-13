@@ -146,6 +146,7 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 ## Machine Learning
 
 - **AWS Certified Machine Learning - Specialty:** [AWS Certified Machine Learning - Specialty](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
+- **Cloud Technologies - Beginner:** [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)
 
 ---
 

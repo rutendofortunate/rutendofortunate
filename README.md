@@ -18,7 +18,7 @@
 )
 
 
-<h1 align="center" style="font-size:24px;">Finance-Focused Portfolio Projects</h1>
+<h1 align="center" style="font-size:24px;">Portfolio Projects</h1>
 
 Here are the key projects I am working on, all centered around the finance sector. The goal is for them to demonstrate my expertise in applying programming, data analysis, and machine learning to solve complex problems in the finance sector. Each project showcases different skills and technologies, including Python, R, SQL, Excel, Power BI, Tableau, and machine learning.
 

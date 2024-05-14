@@ -121,6 +121,8 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 
 - **SQL, Excel & Power BI:** [Microsoft Power BI Data Analyst Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)
 
+- **Excel:** [Financial Modeling Institute](https://fminstitute.com/afm/)
+
 - **Tableau:** [Tableau Certification](https://www.tableau.com/learn/certification)
 
 - **Microsoft Office Specialist: Excel Expert 2019:** [MOS Excel Expert 2019](https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-expert-2019/?practice-assessment-type=certification)

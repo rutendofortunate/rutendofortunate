@@ -7,7 +7,8 @@
   <small style="font-size: 12px;">(my learning journey)</small>
 </h1>
 
-
+![Repository's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=rutendofortunate&repo=Data-Scrapping-Project
+)
 ![Repository's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=rutendofortunate&repo=Fundamental-Python-Basics
 )
 ![Repository's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=rutendofortunate&repo=Learning-Matplotlib-1

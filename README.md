@@ -120,7 +120,9 @@ A roadmap of certifications I aim to achieve , organized by technology and subje
 
 ## Data Analysis and Visualization
 
-- **SQL, Excel & Power BI:** [Microsoft Power BI Data Analyst Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)
+- **Power BI:** [Microsoft Power BI Data Analyst Professional Certificate (Coursera)](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst)
+  
+- **SQL:** [PostgreSQL Professional Certification](https://www.enterprisedb.com/course/postgresql-12-professional-certification)
 
 - **Excel:** [Financial Modeling Institute](https://fminstitute.com/afm/)
 
